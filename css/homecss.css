@@ -1,0 +1,248 @@
+*{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+body{
+  background-color: #d8fffc;
+}
+header{
+  height: 100px;
+  width: 1250px;
+  background-color: white;
+}
+header img{
+  height: 100px;
+  width: 1250px;
+}
+nav{
+height: 50px;
+width: 1250px;
+background-color: black;
+}
+nav ul{
+  list-style: none;
+  text-align: center;
+}
+nav ul a{
+  float:left;
+  text-decoration: none;
+  width: 230px;
+  color: white;
+  line-height: 50px;
+}
+nav ul a:hover{
+ background-color: white;
+ color: black;
+}
+.ban1{
+  height: 400px;
+  width: 1250px;
+  background-color: white;
+  border-bottom: 1.5px solid black;
+}
+.ban2{
+  height: 400px;
+  width: 900px;
+  background-color: gray;
+  float: left;
+}
+.ban2 img{
+  height: 400px;
+  width:900px;
+}
+.ban3{
+  height: 400px;
+  width: 350px;
+  background-color: white;
+  float: left;
+}
+.ban3 h3{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+form{
+  margin-left: 30px;
+}
+.ban3 label{
+  font-size: 18px;
+}
+.ban3 input[type="text"]{
+  height: 30px;
+  width: 90%;
+  border:1px solid black;
+}
+.ban3 input[type="password"]{
+  height: 30px;
+  width: 90%;
+  border:1px solid black;
+}
+.ban3 input[type="submit"]{
+  height: 35px;
+  border: none;
+  background-color: #2ecc71;
+  font-size: 18px;
+  cursor: pointer;
+  color: white;
+  width: 90%;
+}
+button{
+  cursor: pointer;
+  height: 45px;
+  width: 90%;
+  margin-left: 18px;
+  font-size: 18px;
+  margin-top:30px;
+  background-color: #EA2027;
+  border: none;
+  color: white;
+}
+
+#ex1 input[type="text"]{
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+}
+#ex1 input[type="phone"]{
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+}
+#ex1 input[type="date"]{
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+}
+#ex1 label {
+  font-size: 17px;
+}
+#ex1 select{
+  height: 30px;
+  width: 100%;
+  border: 1px solid black;
+}
+#ex1 input[type="submit"]{
+  height: 40px;
+  width: 20%;
+  font-size: 18px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+
+article{
+  height: 500px;
+  width: 1246px;
+  background-color: #f9f9f9;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+aside{
+  height: 500px;
+  width: 374px;
+  float: left;
+}
+.aside1{
+  height: 500px;
+  width: 496px;
+  float: left;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+}
+.aside2{
+  height: 500px;
+  width: 371px;
+  float: left;
+}
+.redon{
+ height: 249px;
+ width: 371px;
+ background-color: white;
+ border-bottom: 1px solid black;
+}
+a{
+  text-decoration: none;
+}
+.redon img{
+  height: 200px;
+  width: 300px;
+  margin-left: 25px;
+}
+.redon h4{
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+  color: green;
+}
+.pfn{
+ height: 249px;
+ width: 371px;
+ background-color: white;
+ border-top: 1px solid black;
+}
+.pfn img{
+  height: 200px;
+  width: 375px;
+}
+.pfn h4{
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+  color: green;
+}
+.lon{
+  height: 500px;
+  width: 496px;
+  background-color: white;
+}
+.lon h3{
+  padding: 12px;
+  text-align: center;
+}
+.uysa{
+  height: 249px;
+  width: 371px;
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+.uysa img{
+  height: 200px;
+  width: 300px;
+  margin-left: 35px;
+}
+.uysa h4{
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+  color: green;
+}
+.tnc{
+  height: 249px;
+  width: 371px;
+  background-color:white;
+  border-top: 1px solid black;
+}
+.tnc img{
+  height: 200px;
+  width: 300px;
+  margin-left: 40px;
+}
+.tnc h4{
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10px;
+  color: green;
+}
+footer{
+  height: 50px;
+  width: 1250px;
+  background-color: black;
+}
+footer p{
+  text-align: center;
+  color: white;
+  line-height: 50px;
+}

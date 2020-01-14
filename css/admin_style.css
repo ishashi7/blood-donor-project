@@ -1,0 +1,135 @@
+*{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+body{
+  background-color: #d8fffc;
+}
+header{
+  height: 100px;
+  width: 1250px;
+  background-color: white;
+}
+header img{
+  height: 100px;
+  width: 1250px;
+}
+article{
+  height: auto;
+  width: 1246px;
+  border-top: 2px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  background-color: white;
+
+}
+button{
+  height: 30px;
+  background-color: #0097e6;
+  border: none;
+  color: white;
+  width: 10%;
+  cursor: pointer;
+}
+article>.nav_pan{
+  height: 440px;
+  width: 300px;
+  background-color: white;
+  margin: 0px;
+  padding-right: 35px;
+  float: left;
+}
+a{
+  text-decoration: none;
+
+}
+a:hover p{
+  color: #303952;
+}
+.pan_1{
+  height: 70px;
+  width: 300px;
+  background-color: #0097e6;
+    margin-top: 15px;
+}
+.pan_1 p{
+  line-height: 70px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+
+}
+
+.pan_2{
+  height: 70px;
+  width: 300px;
+  background-color: #0097e6;
+  margin-top: 15px;
+}
+.pan_2 p{
+  line-height: 70px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+.pan_3{
+  height: 70px;
+  width: 300px;
+  margin-top: 15px;
+  background-color: #0097e6;
+}
+.pan_3 p{
+  line-height: 70px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+.pan_4{
+  height: 70px;
+  width: 300px;
+  margin-top: 15px;
+  background-color:#0097e6;
+}
+.pan_4 p{
+  line-height: 70px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+.pan_5{
+  height: 70px;
+  width: 300px;
+  margin-top: 15px;
+  background-color: #0097e6;
+}
+.pan_5 p{
+  line-height: 70px;
+  color:white;
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+article>.con_pan{
+  height: auto;
+  width: 1200px;
+  background-color: white;
+  margin: 0px;
+}
+
+
+
+
+footer{
+  height: 50px;
+  width: 1250px;
+  background-color: black;
+}
+footer p{
+  text-align: center;
+  color: white;
+  line-height: 50px;
+}
